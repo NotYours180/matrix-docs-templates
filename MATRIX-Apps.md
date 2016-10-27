@@ -1,6 +1,6 @@
 # MATRIX App Example Documentation
 
-One Paragraph of App description goes here
+One Paragraph of `appName` description goes here.
 
 ## Installation
 
@@ -12,8 +12,16 @@ One Paragraph of App description goes here
 Events the application can send or receive from other applications.
 
 ##### Listeners
+* `triggerFoo` - Returns `X` object.
+* `triggerBar` - Returns `Y` object.
 
 ##### Emitters
+* `emitFoo` - Emits `X` object.
+
+### Components
+* temperature
+* humidity
+* everloop
 
 ## Contributing
 
