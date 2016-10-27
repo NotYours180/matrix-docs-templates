@@ -3,7 +3,6 @@
 TODO: Write a SHORT driver description
 
 ## Table of Contents
-* [Usage](#usage)
 * [Port](#port)
 * [Configuration](#configuration)
 * [Available Methods](#available-methods)
