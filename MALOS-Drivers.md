@@ -2,6 +2,13 @@
 
 TODO: Write a SHORT driver description
 
+## Table of Contents
+* [Usage](#usage)
+* [Port](#port)
+* [Configuration](#configuration)
+* [Available Methods](#available-methods)
+* [Examples](#examples)
+
 ## Usage
 
 ### Port
@@ -16,7 +23,7 @@ TODO: Write config params
 
 TODO: Write methods
 
-### Example
+### Examples
 
 TODO: Some short description of the example. Link to full example.
 ```
