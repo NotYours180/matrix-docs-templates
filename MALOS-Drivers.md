@@ -16,6 +16,13 @@ TODO: Write config params
 
 TODO: Write methods
 
+### Example
+
+TODO: Some short description of the example. Link to full example.
+```
+//some example
+```
+
 ## Contributing
 
 1. Fork it!
