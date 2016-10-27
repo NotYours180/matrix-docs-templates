@@ -1,4 +1,4 @@
-# matrix-docs-templates
+# MATRIX Documentation Examples
 Documentation best practices and examples.
 
 ### Documentation Examples
